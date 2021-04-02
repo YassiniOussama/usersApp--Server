@@ -1,1 +1,1 @@
-web: npm run installl
+web: npm run install
